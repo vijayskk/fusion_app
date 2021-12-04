@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597839722274",
+    "project_id": "fusion-music-d10d7",
+    "storage_bucket": "fusion-music-d10d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597839722274:android:4d212b23b7d4c99b7a577b",
+        "android_client_info": {
+          "package_name": "com.vijayskk.fusion_music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597839722274-lrfo2a6n39pd7710cs80ivtreul7ugl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CDTISo0I7etgxAvnJwp6gE82eGrD480"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597839722274-lrfo2a6n39pd7710cs80ivtreul7ugl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
